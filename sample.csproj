@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <Version>0.1.0</Version>
-    <AutofacVersion>4.5.0</AutofacVersion>
+    <AutofacVersion>4.9.4</AutofacVersion>
   </PropertyGroup>
 
   <ItemGroup>
